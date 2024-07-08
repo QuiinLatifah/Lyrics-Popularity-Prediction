@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 pandas
 nltk
@@ -5,4 +6,14 @@ seaborn
 matplotlib
 wordcloud
 scikit-learn
+=======
+streamlit
+pickle
+pandas
+nltk
+seaborn
+matplotlib
+wordcloud
+scikit-learn
+>>>>>>> 922ce29458b76212425eb9f0cce3ab23824d36a6
 imbalanced-learn
