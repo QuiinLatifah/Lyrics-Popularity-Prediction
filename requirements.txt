@@ -1,4 +1,5 @@
 streamlit
+pickle
 pandas
 nltk
 seaborn
@@ -6,4 +7,3 @@ matplotlib
 wordcloud
 scikit-learn
 imbalanced-learn
-pickle
